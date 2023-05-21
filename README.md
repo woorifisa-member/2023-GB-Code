@@ -1,5 +1,11 @@
 # 좋은코드, 나쁜코드
 
+<p align="center">
+    <img src='./image/good-and-bad-code.jpeg' width="75%">
+</p>
+
+> [좋은코드,나쁜코드](https://product.kyobobook.co.kr/detail/S000061353995)
+
 ## 스터디 목표
 
 * 읽기 쉽고, 기억하기 쉽고, 적용하기 쉬운 코드를 작성하는 방법을 배운다.
